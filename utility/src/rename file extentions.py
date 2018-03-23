@@ -1,4 +1,4 @@
-# import os
+# e.g rename file with extension .cpp to .txt
 import sys
 import os
 import glob
