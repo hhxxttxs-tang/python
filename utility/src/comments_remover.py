@@ -1,3 +1,5 @@
+# remove the FIRST block comment from cpp file
+
 # ref:
 #   https://gist.github.com/ChunMinChang/88bfa5842396c1fbbc5b
 #   http://nerdfever.com/remove-all-comments-from-c-and-c-source-code/
